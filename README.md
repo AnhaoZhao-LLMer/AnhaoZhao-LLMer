@@ -14,7 +14,7 @@ My name is `赵桉颢 Anhao Zhao` (Chinese :dragon:).
 - **P-Lang** : Python :snake:,  C/C++ :gear:
 - **H-Lang** : English :us:, Chinese :cn:
 - **Research** :mag::  
-  - Deep Reinforcement Learning
+  - Deep Reinforcement Learning,LLM-based Agent
 - **Activity** :rainbow: : 🥋🥊🎮🀄🎧📽📖🚴‍♂️🏊‍♀️🏃‍♂️🧗‍♂️✍⛷🧠🏀
 
 #### Contact Me
