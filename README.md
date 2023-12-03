@@ -1,6 +1,6 @@
 ### Hi , I'm Anhao Zhao
 
-I'm a passionate AIer :robot: from China :lantern:
+I'm a passionate AIer 🤖 from China 🔥
 
 My name is `赵桉颢 Anhao Zhao` (Chinese :dragon:).
 
@@ -11,7 +11,7 @@ My name is `赵桉颢 Anhao Zhao` (Chinese :dragon:).
 
 #### Interests
 
-- **P-Lang** : Python :snake:,  C/C++ :gear:
+- **P-Lang** : Python 🐍,  C/C++ ⚙️
 - **H-Lang** : English :us:, Chinese :cn:
 - **Research** :mag::  
   - Deep Reinforcement Learning,LLM-based Agent
