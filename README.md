@@ -1,4 +1,4 @@
-### Hi :clap: , I'm Anhao Zhao :fire:
+### Hi , I'm Anhao Zhao
 
 I'm a passionate AIer :robot: from China :lantern:
 
