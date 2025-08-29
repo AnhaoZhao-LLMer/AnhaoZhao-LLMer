@@ -10,7 +10,7 @@ My research mainly focuses on
 
 - 🍻 Ph.D. at [*NLP Group @PolyU*](https://polyunlp.github.io/).  
 - 🔭 I'm interested in Natural Language Processing.  
-- 💻 Coding with Python, familiar with PyTorch, TensorFlow.  
+- 💻 Coding with Python, familiar with PyTorch, Transformers.  
 - 💬 Welcome to contact me by email ↙️.  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=plclmezboss)]()
