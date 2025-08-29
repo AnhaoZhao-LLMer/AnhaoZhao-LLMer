@@ -2,6 +2,8 @@
 
 Hi, I'm Anhao Zhao, a Ph.D. student at The Hong Kong Polytechnic University 🇭🇰🇨🇳, collaborating with EIT, supervised by Prof. [Xiaoyu Shen](https://chin-gyou.github.io/) and Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).
 
+I'm an enthusiastic LLM lover, aiming to explore the optimal Pareto frontier between accuracy and deployment cost.  
+
 My research mainly focuses on  
 1) LLM compression,  
 2) reasoning efficiency.  
