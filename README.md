@@ -14,4 +14,5 @@ My research mainly focuses on
 - 🎧 Big fan of hip-hop (especially CDC and the Chengdu Five 🐼) — feel free to reach out if you wanna chat about rap! 
 - 💬 Welcome to contact me by email ↙️.  
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=plclmezboss)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhaoZhao-LLMer
+)]()
