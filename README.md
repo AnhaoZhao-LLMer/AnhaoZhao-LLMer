@@ -8,8 +8,8 @@ My research mainly focuses on
 1) LLM compression,  
 2) reasoning efficiency.  
 
-- 🍻 Ph.D. at [*NLP Group @PolyU*](https://polyunlp.github.io/).  
-- 🔭 I'm interested in Natural Language Processing.  
+- 🍻 Ph.D. at [*NLP Group @PolyU*](https://polyunlp.github.io/) & [*NLP Group @EIT*](eit-nlp.github.io/lab-website).
+- 🔭 I'm interested in exploring any feasible research directions toward democratizing large language models (LLMs), making them more accessible, affordable, and widely usable. 
 - 💻 Coding with Python, familiar with PyTorch, Transformers.
 - 🎧 Big fan of hip-hop (especially CDC and the Chengdu Five 🐼) — feel free to reach out if you wanna chat about rap! 
 - 💬 Welcome to contact me by email ↙️.  
